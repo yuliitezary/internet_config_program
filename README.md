@@ -1,3 +1,7 @@
 # internet_config_program
+<br>
 кароче тут просто проги для того чтобы с инетоом работать
-все програмы в тут https://github.com/yuliitezary/internet_config_program/releases
+<br>
+все програмы в тут 
+<br>
+https://github.com/yuliitezary/internet_config_program/releases
